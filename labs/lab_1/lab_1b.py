@@ -43,7 +43,7 @@ def simple_calculator(operation: str, num1: float, num2: float) -> float:
 
 def main():
     
-    print(f"===== Simple Calculator =====")
+    print("===== Simple Calculator =====")
 
     # Ask the user for sample input    
     while True:
